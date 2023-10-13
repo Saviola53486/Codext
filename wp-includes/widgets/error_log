@@ -1,0 +1,104 @@
+[22-Aug-2022 06:33:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Sep-2022 10:51:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Sep-2022 02:26:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Sep-2022 01:02:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Sep-2022 03:22:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[31-Oct-2022 02:35:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Nov-2022 08:30:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Nov-2022 14:00:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Dec-2022 21:35:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Dec-2022 04:35:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Dec-2022 06:38:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Jan-2023 23:38:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Jan-2023 15:06:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Jan-2023 17:05:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Jan-2023 19:10:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Jan-2023 20:25:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Jan-2023 15:26:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Jan-2023 09:32:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Feb-2023 11:05:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Feb-2023 11:07:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 02:05:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 02:11:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Feb-2023 00:15:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Feb-2023 16:44:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Mar-2023 08:12:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Mar-2023 08:33:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

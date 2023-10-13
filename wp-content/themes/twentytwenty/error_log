@@ -1,0 +1,4 @@
+[25-Aug-2022 23:48:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/riskfjhr/public_html/wp-content/themes/twentytwenty/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentytwenty/404.php on line 10

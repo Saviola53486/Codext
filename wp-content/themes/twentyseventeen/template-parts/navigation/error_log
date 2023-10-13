@@ -1,0 +1,4 @@
+[26-Aug-2022 22:36:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php on line 12

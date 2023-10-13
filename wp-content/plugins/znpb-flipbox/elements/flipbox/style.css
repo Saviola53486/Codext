@@ -1,0 +1,321 @@
+/* Container Element */
+.znFlipboxElm {
+  position: relative;
+  height: 400px;
+  -webkit-perspective: 1000;
+          perspective: 1000;
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d; }
+
+/* FlipBox */
+.znFlipbox {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+  position: absolute;
+  top: 0;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+  z-index: 1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-perspective: inherit;
+          perspective: inherit; }
+
+/* Vertical Alignment */
+.znFlipboxElm.znFlipbox--vAlignTop .znFlipbox {
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start; }
+
+.znFlipboxElm.znFlipbox--vAlignMiddle .znFlipbox {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
+
+.znFlipboxElm.znFlipbox--vAlignBottom .znFlipbox {
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end; }
+
+/* Horizontal Alignment */
+.znFlipboxElm.znFlipbox--hAlignLeft {
+  text-align: left; }
+
+.znFlipboxElm.znFlipbox--hAlignCenter {
+  text-align: center; }
+
+.znFlipboxElm.znFlipbox--hAlignRight {
+  text-align: right; }
+
+/* Overlay */
+.znFlipbox-overlayFront,
+.znFlipbox-overlayBack {
+  display: block;
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0; }
+
+/* Content */
+.znFlipbox-content {
+  padding: 40px;
+  width: 100%;
+  position: relative;
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+  z-index: 2;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden; }
+
+/* Speed */
+.znFlipboxElm .znFlipbox,
+.znFlipboxElm .znFlipbox-content {
+  -webkit-transition-property: all;
+  transition-property: all;
+  -webkit-transition-duration: 0.6s;
+          transition-duration: 0.6s;
+  -webkit-transition-timing-function: cubic-bezier(0.5, 0.3, 0.3, 1);
+          transition-timing-function: cubic-bezier(0.5, 0.3, 0.3, 1); }
+
+/* presets */
+.znFlipboxElm.znFlipbox--speedFast .znFlipbox,
+.znFlipboxElm.znFlipbox--speedFast .znFlipbox-content {
+  -webkit-transition-duration: 0.3s;
+          transition-duration: 0.3s; }
+
+.znFlipboxElm.znFlipbox--speedNormal .znFlipbox,
+.znFlipboxElm.znFlipbox--speedNormal .znFlipbox-content {
+  -webkit-transition-duration: 0.6s;
+          transition-duration: 0.6s; }
+
+.znFlipboxElm.znFlipbox--speedSlow .znFlipbox,
+.znFlipboxElm.znFlipbox--speedSlow .znFlipbox-content {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s; }
+
+/**
+ * Rotate Horizontally
+ */
+.znFlipboxElm-pbOff.znFlipbox--rotateX .znFlipbox-front {
+  -webkit-transform: rotateY(0deg);
+          transform: rotateY(0deg); }
+
+.znFlipboxElm-pbOff.znFlipbox--rotateX:hover .znFlipbox-front {
+  -webkit-transform: rotateY(-180deg);
+          transform: rotateY(-180deg); }
+
+.znFlipboxElm-pbOff.znFlipbox--rotateX .znFlipbox-back {
+  -webkit-transform: rotateY(180deg);
+          transform: rotateY(180deg); }
+
+.znFlipboxElm-pbOff.znFlipbox--rotateX:hover .znFlipbox-back {
+  -webkit-transform: rotateY(0deg);
+          transform: rotateY(0deg); }
+
+/* Content */
+.znFlipboxElm-pbOff.znFlipbox--rotateX .znFlipbox-contentFront {
+  -webkit-transform: translateX(0px) translateZ(0px) scale(1);
+          transform: translateX(0px) translateZ(0px) scale(1); }
+
+.znFlipboxElm-pbOff.znFlipbox--rotateX:hover .znFlipbox-contentFront {
+  -webkit-transform: translateX(-50%) translateZ(80px) scale(0.9);
+          transform: translateX(-50%) translateZ(80px) scale(0.9);
+  opacity: 0; }
+
+.znFlipboxElm-pbOff.znFlipbox--rotateX .znFlipbox-contentBack {
+  -webkit-transform: translateX(50%) translateZ(80px) scale(0.9);
+          transform: translateX(50%) translateZ(80px) scale(0.9);
+  opacity: 0; }
+
+.znFlipboxElm-pbOff.znFlipbox--rotateX:hover .znFlipbox-contentBack {
+  -webkit-transform: translateX(0px) translateZ(0) scale(1);
+          transform: translateX(0px) translateZ(0) scale(1);
+  opacity: 1; }
+
+/**
+ * Rotate Vertically
+ */
+.znFlipboxElm-pbOff.znFlipbox--rotateY .znFlipbox-front {
+  -webkit-transform: rotateX(0deg);
+          transform: rotateX(0deg); }
+
+.znFlipboxElm-pbOff.znFlipbox--rotateY:hover .znFlipbox-front {
+  -webkit-transform: rotateX(-180deg);
+          transform: rotateX(-180deg); }
+
+.znFlipboxElm-pbOff.znFlipbox--rotateY .znFlipbox-back {
+  -webkit-transform: rotateX(180deg);
+          transform: rotateX(180deg); }
+
+.znFlipboxElm-pbOff.znFlipbox--rotateY:hover .znFlipbox-back {
+  -webkit-transform: rotateX(0deg);
+          transform: rotateX(0deg); }
+
+/* Content */
+.znFlipboxElm-pbOff.znFlipbox--rotateY .znFlipbox-contentFront {
+  -webkit-transform: translateY(0px) translateZ(0px) scale(1);
+          transform: translateY(0px) translateZ(0px) scale(1); }
+
+.znFlipboxElm-pbOff.znFlipbox--rotateY:hover .znFlipbox-contentFront {
+  -webkit-transform: translateY(50%) translateZ(80px) scale(0.9);
+          transform: translateY(50%) translateZ(80px) scale(0.9);
+  opacity: 0; }
+
+.znFlipboxElm-pbOff.znFlipbox--rotateY .znFlipbox-contentBack {
+  -webkit-transform: translateY(-50%) translateZ(80px) scale(0.9);
+          transform: translateY(-50%) translateZ(80px) scale(0.9);
+  opacity: 0; }
+
+.znFlipboxElm-pbOff.znFlipbox--rotateY:hover .znFlipbox-contentBack {
+  -webkit-transform: translateY(0px) translateZ(0px) scale(1);
+          transform: translateY(0px) translateZ(0px) scale(1);
+  opacity: 1; }
+
+/* PB ON */
+/**
+ * Rotate Horizontally
+ */
+.znFlipboxElm-pbOn.znFlipbox--rotateX .znFlipbox-front {
+  -webkit-transform: rotateY(0deg);
+          transform: rotateY(0deg); }
+
+.znFlipboxElm-pbControl:checked ~ .znFlipboxElm-pbOn.znFlipbox--rotateX .znFlipbox-front {
+  -webkit-transform: rotateY(-180deg);
+          transform: rotateY(-180deg);
+  opacity: 0; }
+
+.znFlipboxElm-pbOn.znFlipbox--rotateX .znFlipbox-back {
+  -webkit-transform: rotateY(180deg);
+          transform: rotateY(180deg); }
+
+.znFlipboxElm-pbControl:checked ~ .znFlipboxElm-pbOn.znFlipbox--rotateX .znFlipbox-back {
+  -webkit-transform: rotateY(0deg);
+          transform: rotateY(0deg); }
+
+/* Content */
+.znFlipboxElm-pbOn.znFlipbox--rotateX .znFlipbox-contentFront {
+  -webkit-transform: translateX(0px) translateZ(0px) scale(1);
+          transform: translateX(0px) translateZ(0px) scale(1); }
+
+.znFlipboxElm-pbControl:checked ~ .znFlipboxElm-pbOn.znFlipbox--rotateX .znFlipbox-contentFront {
+  -webkit-transform: translateX(-50%) translateZ(80px) scale(0.9);
+          transform: translateX(-50%) translateZ(80px) scale(0.9);
+  opacity: 0; }
+
+.znFlipboxElm-pbOn.znFlipbox--rotateX .znFlipbox-contentBack {
+  -webkit-transform: translateX(50%) translateZ(80px) scale(0.9);
+          transform: translateX(50%) translateZ(80px) scale(0.9);
+  opacity: 0; }
+
+.znFlipboxElm-pbControl:checked ~ .znFlipboxElm-pbOn.znFlipbox--rotateX .znFlipbox-contentBack {
+  -webkit-transform: translateX(0px) translateZ(0) scale(1);
+          transform: translateX(0px) translateZ(0) scale(1);
+  opacity: 1; }
+
+/**
+ * Rotate Vertically
+ */
+.znFlipboxElm-pbOn.znFlipbox--rotateY .znFlipbox-front {
+  -webkit-transform: rotateX(0deg);
+          transform: rotateX(0deg); }
+
+.znFlipboxElm-pbControl:checked ~ .znFlipboxElm-pbOn.znFlipbox--rotateY .znFlipbox-front {
+  -webkit-transform: rotateX(-180deg);
+          transform: rotateX(-180deg); }
+
+.znFlipboxElm-pbOn.znFlipbox--rotateY .znFlipbox-back {
+  -webkit-transform: rotateX(180deg);
+          transform: rotateX(180deg); }
+
+.znFlipboxElm-pbControl:checked ~ .znFlipboxElm-pbOn.znFlipbox--rotateY .znFlipbox-back {
+  -webkit-transform: rotateX(0deg);
+          transform: rotateX(0deg); }
+
+/* Content */
+.znFlipboxElm-pbOn.znFlipbox--rotateY .znFlipbox-contentFront {
+  -webkit-transform: translateY(0px) translateZ(0px) scale(1);
+          transform: translateY(0px) translateZ(0px) scale(1); }
+
+.znFlipboxElm-pbControl:checked ~ .znFlipboxElm-pbOn.znFlipbox--rotateY .znFlipbox-contentFront {
+  -webkit-transform: translateY(50%) translateZ(80px) scale(0.9);
+          transform: translateY(50%) translateZ(80px) scale(0.9); }
+
+.znFlipboxElm-pbOn.znFlipbox--rotateY .znFlipbox-contentBack {
+  -webkit-transform: translateY(-50%) translateZ(80px) scale(0.9);
+          transform: translateY(-50%) translateZ(80px) scale(0.9);
+  opacity: 0; }
+
+.znFlipboxElm-pbControl:checked ~ .znFlipboxElm-pbOn.znFlipbox--rotateY .znFlipbox-contentBack {
+  -webkit-transform: translateY(0px) translateZ(0px) scale(1);
+          transform: translateY(0px) translateZ(0px) scale(1);
+  opacity: 1; }
+
+/**
+ * Shadows
+ */
+.znFlipboxElm.znFlipbox--shadowsHover .znFlipbox {
+  box-shadow: 0 0 0 transparent; }
+
+.znFlipboxElm.znFlipbox--shadowsAlways .znFlipbox,
+.znFlipboxElm.znFlipbox--shadowsHover:hover .znFlipbox {
+  box-shadow: 0 32px 58px rgba(0, 0, 0, 0.2); }
+
+/* Content shadows */
+/*.znFlipboxElm.znFlipbox--useShadows .znFlipbox-contentItem {transition: 0.60s;}
+.znFlipboxElm.znFlipbox--useShadows .znFlipbox-contentItem-obj {box-shadow: 0 32px 58px rgba(0,0,0,0.2);}
+.znFlipboxElm.znFlipbox--useShadows .znFlipbox-contentItem-text {text-shadow: 0 22px 38px rgba(0, 0, 0, 0.4);}*/
+/* Control Checkbox */
+.znFlipboxElm-pbControl {
+  display: none; }
+
+.znFlipboxElm-pbControl + label {
+  display: block;
+  width: 26px;
+  height: 26px;
+  background: #66CB66;
+  color: #fff;
+  border-radius: 13px;
+  position: absolute;
+  top: 50px;
+  right: -10px;
+  padding-left: 2px;
+  z-index: 2;
+  cursor: pointer;
+  font-size: 18px;
+  line-height: 26px;
+  font-family: dashicons;
+  text-decoration: inherit;
+  font-weight: 400;
+  font-style: normal;
+  vertical-align: top;
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition: -webkit-transform .2s ease-out;
+  transition: -webkit-transform .2s ease-out;
+  transition: transform .2s ease-out;
+  transition: transform .2s ease-out, -webkit-transform .2s ease-out; }
+
+.znFlipboxElm-pbControl + label:hover {
+  background: #52ad52; }
+
+.znFlipboxElm-pbControl + label:before {
+  content: "\f345"; }
+
+/* Checked */
+.znFlipboxElm-pbControl:checked + label {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg); }
+
+/* Hide Option toolbar for first lvl column */
+.zn_col_container-flipbox > .zn_pb_el_container > .zn_el_options_bar {
+  display: none; }
+
+/*# sourceMappingURL=style.css.map */

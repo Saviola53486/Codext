@@ -1,0 +1,189 @@
+[14-Sep-2018 09:34:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php on line 13
+[14-Sep-2018 13:58:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php on line 13
+[14-Sep-2018 17:02:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[21-Sep-2018 00:30:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php on line 13
+[30-Sep-2018 01:39:56 UTC] PHP Notice:  Undefined index: wp_version in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[30-Sep-2018 01:39:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[30-Sep-2018 08:12:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[07-Mar-2019 03:29:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php on line 13
+[06-May-2019 12:08:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php on line 13
+[09-May-2019 15:19:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[09-May-2019 15:20:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[09-May-2019 15:20:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[09-May-2019 15:20:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[09-May-2019 15:20:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[10-May-2019 03:51:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php on line 13
+[19-May-2019 03:04:53 UTC] PHP Notice:  Undefined index: wp_version in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[19-May-2019 03:04:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[19-May-2019 03:05:42 UTC] PHP Notice:  Undefined index: wp_version in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[19-May-2019 03:05:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[19-May-2019 03:06:00 UTC] PHP Notice:  Undefined index: wp_version in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[19-May-2019 03:06:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[19-May-2019 03:06:40 UTC] PHP Notice:  Undefined index: wp_version in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[19-May-2019 03:06:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[19-May-2019 03:06:50 UTC] PHP Notice:  Undefined index: wp_version in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[19-May-2019 03:06:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[02-Jun-2019 15:14:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[02-Jun-2019 15:15:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[02-Jun-2019 15:16:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[02-Jun-2019 15:16:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[02-Jun-2019 22:38:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php on line 13
+[02-Jun-2019 22:38:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php on line 13
+[02-Jun-2019 22:40:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php on line 13
+[06-Jun-2019 06:10:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php on line 13
+[06-Jun-2019 06:11:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php on line 13
+[15-Jun-2019 02:50:52 UTC] PHP Notice:  Undefined index: wp_version in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[15-Jun-2019 02:50:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[15-Jun-2019 02:51:44 UTC] PHP Notice:  Undefined index: wp_version in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[15-Jun-2019 02:51:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[01-Jul-2019 13:57:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[01-Jul-2019 13:57:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[05-Jul-2019 23:07:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/jtr2307tbmmk/public_html/risksummitafrica.com/wp-content/themes/twentyseventeen/404.php on line 13
+[25-Aug-2022 23:48:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[26-Aug-2022 06:07:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/comments.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/comments.php on line 21
+[26-Aug-2022 10:19:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[26-Aug-2022 12:18:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/search.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/search.php on line 13
+[26-Aug-2022 15:46:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/front-page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/front-page.php on line 15
+[26-Aug-2022 16:36:48 UTC] PHP Notice:  Undefined index: wp_version in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[26-Aug-2022 16:36:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[26-Aug-2022 17:18:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/sidebar.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/sidebar.php on line 13
+[26-Aug-2022 18:11:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/header.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/header.php on line 16
+[26-Aug-2022 20:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/searchform.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/searchform.php on line 12
+[27-Aug-2022 00:32:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/single.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/single.php on line 13
+[27-Aug-2022 02:57:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/page.php on line 18
+[27-Aug-2022 05:45:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/index.php on line 18

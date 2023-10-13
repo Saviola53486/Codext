@@ -1,0 +1,20 @@
+[26-Aug-2022 04:29:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-none.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-none.php on line 17
+[26-Aug-2022 04:44:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-audio.php on line 15
+[26-Aug-2022 12:59:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-image.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-image.php on line 14
+[26-Aug-2022 14:57:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-video.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-video.php on line 14
+[26-Aug-2022 16:31:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-excerpt.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/post/content-excerpt.php on line 17

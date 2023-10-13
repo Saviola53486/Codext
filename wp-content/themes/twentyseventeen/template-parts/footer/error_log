@@ -1,0 +1,8 @@
+[26-Aug-2022 15:07:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php on line 14
+[27-Aug-2022 09:40:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 13

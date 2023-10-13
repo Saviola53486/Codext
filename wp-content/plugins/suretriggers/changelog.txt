@@ -1,0 +1,159 @@
+Version 1.0.25 - Wednesday, 27th September 2023
+- New: Added "RafflePress" Integration
+- New: Added "wpForo Forum" Integration
+- New: Added "WooCommerce ShipStation" Integration
+- Improvement: WordPress - Make Author field as dynamic field in Create/Update Post Action
+
+Version 1.0.24 - Wednesday, 20th September 2023
+- New: Added "WS Form" Integration
+- New: Added "LearnDash Achievements" Integration
+- New: Added "Advanced Ads" Integration
+- New: Added "Newsletter" Integration
+- New: Added "Thrive Leads" Integration
+- Improvement: "WooCommerce Subscription" - Added New Trigger - User Subscription Updated
+- Improvement: "EDD" - Added user_and and customer_id in response 
+
+Version 1.0.23 - Tuesday, 12th September 2023
+- New: Added "Modern Events Calendar" Integration
+- New: Added "Advanced Coupons" Integration
+- New: Added New Action "Find User By ID" in "WordPress" Integration
+- New: Added New Action "Subscription Renewal" in "EDD" Integration
+
+Version 1.0.22 - Wednesday, 6th September 2023
+- New: Added "WP-Polls" Integration
+- New: Added "Meta Box" Integration
+- New: Added "Advanced Custom Fields" Integration
+- New: Added "WP Fusion" Integration
+- New: Added "Contact Form 7" Integration
+- Improvement: Amelia - Added custom fields support in all Triggers responses
+- Improvement: GamiPress - Fixed issue in "Award Points To User" Action
+- Improvement: Formidable Forms - Fixed issue in pagination of the form list
+- Improvement: WordPress - Added a new improvement to exclude roles users wish to keep unchanged when updating a user's role in "Create/Update User" action
+
+Version 1.0.21 - Wednesday, 16th August 2023
+- Improvement: WordPress - Add support of json values in Set User Meta Action
+
+Version 1.0.20 - Thursday, 10th August 2023
+- New: Added "WP User Manager" Integration
+- Improvement: FluentCRM - Added new Trigger "New Contact Added"
+- Improvement: WordPress - Added new Action "Remove User"
+- Improvement: WordPress - updated response in "Post Created" Trigger
+
+Version 1.0.19 - Thursday, 03rd August 2023
+- Improvement: Elementor Pro - Fixed form listing issue in "Form Submitted" Trigger
+- Improvement: BuddyBoss - Added new Trigger "User's Profile Type Changed"
+- Improvement: GamiPress - Fixed Pagination issue
+- Improvement: WooCommerce - Updated "Product Purchased" Trigger
+
+Version 1.0.18 - Tuesday, 25th July 2023
+- New: Added "WP All Import" Integration
+- New: Added "GravityKit" Integration
+- New: Added "Wp Simple Pay" Integration
+- Improvement: WooCommerce - Added "comment_author_email" field in response in Product Reviewed Trigger
+- Improvement: WordPress - Added new improvement to add multiple user role if user already exists in "Create/Update User" action
+- Improvement: WooCommerce - Fixed bug for "Purchase Created" Trigger
+- Improvement: Added User's meta in LearnDash Trigger
+
+Version 1.0.17 - Wednesday, 12th July 2023
+- New: LearnDash - Added "Course is marked complete for user" Action
+- Improvement: WordPress - Fixed the "From Name and From Email" issue in Send Email Action
+- Improvement: WordPress - Added improvement to not update user role if current role is higher than the role specified
+- Improvement: Updated Video in Connection page 
+
+Version 1.0.16 - Thursday, 29th Jun 2023
+- New: Added "BuddyPress" Integration
+- Improvement: Added default styling for "Trigger Button" as per default theme
+
+Version 1.0.15 - Monday, 26th Jun 2023
+- New: BuddyBoss - Added "Add Post To Activity Feed" Action
+- New: Added "Trigger Button" Integration
+- Improvement: Changed label for "Settings" in WordPress plugins page.
+- Improvement: Added "Select Download" option in Easy Digital Downloads Integration
+
+Version 1.0.14 -  Tuesday, 13th Jun 2023
+- New: Added FunnelKit Integration
+- New: Added Kadence Forms Integration
+- New: Added Software Licensing Triggers in Easy Digital Downloads Integration
+- New: Added "Find User's Meta" action in WordPress Integration
+- New: Added Jetpack CRM integration
+- Improvement: Fluent CRM - Fixed issue for double option emails in Add/Update Contact event
+- Improvement: WordPress - Added additonal response data in Create Comment on Post event
+- Improvement: WordPress - Fixed first name and last name issue for "Create User" event
+- Improvement: GamiPress - Fixed fetch data issue
+
+
+Version 1.0.13 - Monday, 22nd May 2023
+- New: Added Events Manager Integration
+- New: Added WooCommerce Memberships Integration
+- Improvement: Fixed issue for Spectra Forms list when form is inside the container
+- Improvement: WooCommerce - improvements in "Product Purchased" trigger
+- Improvement: WooCommerce Subscription - Fixed Fetch Data not working issue
+- Improvement: Paid Memberships Pro - Fixed Fetch Data not working issue
+
+Version 1.0.12 - Wednesday, 10th May 2023
+- New: Added WooCommerce Subscription Integration
+- New: Added MetForm Integration
+- New: Added Fluent Support Integration
+- New: Added Pie Forms Integration
+- New: Added Ninja Forms Integration
+- New: Added LearnPress Integration
+- New: Added MemberPress Integration
+
+
+Version 1.0.11 - Tuesday, 9th May 2023
+- Fix: WordPress warning for bbPress
+
+Version 1.0.10 - Wednesday, 3rd May 2023
+- New: Added JetEngine Integration
+- New: Added FormidableForms Integration
+- New: Added JetFormBuilder Integration
+- New: Added Forminator Integration
+- New: Added GamiPress Integration
+- New: Added bbPress Integration
+- Improvement: WordPress - Fixed the issue for Create/Updated post trigger
+- Improvement: WordPress - Added recent dynamic data for the trigger User Role Added/User Role Updated 
+- Improvement: FluentCRM - Added multiple tags dynamic data in Tag Added trigger
+- Improvement: BuddyBoss - Fixed the issue for hidden/private groups not getting fetched
+
+Version 1.0.9 - Wednesday, 26th April 2023
+- New: Added ProjectHuddle Integration
+- New: Added MasterStudy LMS Integration
+- New: Added Ultimate Member Integration
+- New: Added PaidMembershipPro Integration
+- New: Added HappyForms Integration
+- Improvement: Added functionality for create/update Post in one action "Create/Update"
+- Improvement: Added new action "Send Message" in BuddyBoss Integration
+
+Version 1.0.8 - Thursday, 23rd March 2023
+- Improvement: Made woocommerce order trigger compatible with optin pages.
+- Implemented: Added coupon name & other coupon details in trigger response for woocommerce order created trigger.
+
+Version 1.0.7 - Tuesday, 21st February 2023
+- New: Added new integrations for MailPoet & ConvertPro.
+- Improvement: Made plugin compatible with PHPStan.
+- Improvement: Made plugin compatible with WordPress-VIP-Go standard.
+- Improvement: Added customer line items, information, and coupon codes in the response to triggers for WooCommerce.
+- Improvement: Updated triggers response to more appropriate data.
+- Fix: Displayed group options in the dropdown for BuddyBoss groups.
+
+Version 1.0.6 - Tuesday, 7th February 2023
+- New: integration for WP Job Manager, PeepSo, BadgeOS.
+- Improvement: Moved back SureTriggers icon on top level menu.
+- Improvement: Updated readme file.
+- Fix: FluentCRM - Fixed custom fields display issue.
+- Fix: FluentCRM - Save data of custom fields.
+- Fix: FluentCRM - Implemented proper validations on custom fields.
+
+Version 1.0.5 - Friday, 20th January 2023
+- Fix: Dashboard notice was displaying when user is connected.
+- Fix: SAAS dashboard displaying in fullscreen.
+
+Version 1.0.4 - Friday, 20th January 2023
+- New: Added a notice for first time users to help them to connect with SureTriggers
+- Improvement: Moved SureTriggers menu under general settings.
+- Improvement: Removed Settings page and managed 'disconnect' functionality from SAAS
+- Fix: FluentForm fields were not fetching in the trigger
+- Fix: ActiveCampaign add/update action failing
+
+Version 1.0.3 - Monday, 2nd January 2023
+- Initial Beta Release

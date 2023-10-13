@@ -1,0 +1,263 @@
+[10-Jun-2022 06:43:50 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1c8e89_56.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[10-Jun-2022 06:43:50 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1c8e89_56.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[10-Jun-2022 06:43:50 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1c8e89_62.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[10-Jun-2022 06:43:50 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1c8e89_56.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[10-Jun-2022 06:43:50 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1c8e89_56.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[10-Jun-2022 06:43:50 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1c8e89_56.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[10-Jun-2022 06:43:50 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1c8e89_56.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by delete_transient, delete_option
+[15-Jun-2022 13:25:45 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_3b59f0_6.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[15-Jun-2022 13:25:45 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_3b59f0_28.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[15-Jun-2022 13:25:45 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_3b59f0_6.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[15-Jun-2022 13:25:45 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_3b59f0_6.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[15-Jun-2022 13:25:45 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_3b59f0_6.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by delete_transient, delete_option
+[29-Jun-2022 05:06:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_b2878_32.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[29-Jun-2022 05:06:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_b2878_31.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[29-Jun-2022 05:06:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_b2878_32.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[29-Jun-2022 05:06:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_b2878_32.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[29-Jun-2022 05:06:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_b2878_31.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[29-Jun-2022 05:06:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_b2878_33.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[29-Jun-2022 05:06:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_b2878_32.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by delete_transient, delete_option
+[29-Jun-2022 05:06:08 UTC] PHP Warning:  mysqli_query(): (HY000/1021): Disk full (/tmp/.mysql/#sql_b2878_31.MAI); waiting for someone to free some space... (errno: 28 &quot;No space left on device&quot;) in /home/riskfjhr/public_html/wp-includes/wp-db.php on line 2169
+[29-Jun-2022 05:06:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_b2878_31.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query 
+			SELECT   wp_posts.*
+			FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+			WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (47)
+) AND wp_posts.post_type = 'nav_menu_item' AND ((wp_posts.post_status = 'publish'))
+			GROUP BY wp_posts.ID
+			ORDER BY wp_posts.menu_order ASC
+			
+		 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, ZnMegaMenu->load_smart_areas, wp_get_nav_menu_items, get_posts, WP_Query->query, WP_Query->get_posts
+[29-Jun-2022 05:06:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_b2878_31.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/framework/zion-builder/inc/index-page-builder.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[29-Jun-2022 05:06:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_b2878_31.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/framework/zion-builder/inc/index-page-builder.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[29-Jun-2022 05:06:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_b2878_32.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/framework/zion-builder/inc/index-page-builder.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, set_transient, update_option
+[29-Jun-2022 05:06:08 UTC] PHP Warning:  mysqli_query(): (HY000/1021): Disk full (/tmp/.mysql/#sql_b2878_31.MAI); waiting for someone to free some space... (errno: 28 &quot;No space left on device&quot;) in /home/riskfjhr/public_html/wp-includes/wp-db.php on line 2169
+[29-Jun-2022 05:06:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_b2878_31.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query 
+			SELECT   wp_posts.*
+			FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+			WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (47)
+) AND wp_posts.post_type = 'nav_menu_item' AND ((wp_posts.post_status = 'publish'))
+			GROUP BY wp_posts.ID
+			ORDER BY wp_posts.menu_order ASC
+			
+		 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/framework/zion-builder/inc/index-page-builder.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/components/theme-header/header-main.php'), include('/themes/kallyas/components/theme-header/header-style3.php'), include('/themes/kallyas/components/theme-header/header-style-default.php'), include('/themes/kallyas/components/theme-header/header-markup-main.php'), do_action('zn_head__main_right'), WP_Hook->do_action, WP_Hook->apply_filters, zn_header_main_menu, zn_show_nav, wp_nav_menu, wp_get_nav_menu_items, get_posts, WP_Query->query, WP_Query->get_posts
+[29-Jun-2022 05:06:09 UTC] PHP Warning:  mysqli_query(): (HY000/1021): Disk full (/tmp/.mysql/#sql_b2878_31.MAI); waiting for someone to free some space... (errno: 28 &quot;No space left on device&quot;) in /home/riskfjhr/public_html/wp-includes/wp-db.php on line 2169
+[29-Jun-2022 05:06:09 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_b2878_31.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query 
+			SELECT   wp_posts.*
+			FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+			WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (47)
+) AND wp_posts.post_type = 'nav_menu_item' AND ((wp_posts.post_status = 'publish'))
+			GROUP BY wp_posts.ID
+			ORDER BY wp_posts.menu_order ASC
+			
+		 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/framework/zion-builder/inc/index-page-builder.php'), get_footer, locate_template, load_template, require_once('/themes/kallyas/footer.php'), dynamic_sidebar, WP_Widget->display_callback, WP_Nav_Menu_Widget->widget, wp_nav_menu, wp_get_nav_menu_items, get_posts, WP_Query->query, WP_Query->get_posts
+[05-Jul-2022 22:47:13 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1b9921_7.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[05-Jul-2022 22:47:13 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1b9921_7.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[05-Jul-2022 22:47:13 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1b9921_7.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[05-Jul-2022 22:47:13 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1b9921_15.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[05-Jul-2022 22:47:13 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1b9921_7.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by delete_transient, delete_option
+[05-Jul-2022 22:47:14 UTC] PHP Warning:  mysqli_query(): (HY000/1021): Disk full (/tmp/.mysql/#sql_1b9921_18.MAI); waiting for someone to free some space... (errno: 28 &quot;No space left on device&quot;) in /home/riskfjhr/public_html/wp-includes/wp-db.php on line 2169
+[05-Jul-2022 22:47:14 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1b9921_18.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query 
+			SELECT   wp_posts.*
+			FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+			WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (47)
+) AND wp_posts.post_type = 'nav_menu_item' AND ((wp_posts.post_status = 'publish'))
+			GROUP BY wp_posts.ID
+			ORDER BY wp_posts.menu_order ASC
+			
+		 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, ZnMegaMenu->load_smart_areas, wp_get_nav_menu_items, get_posts, WP_Query->query, WP_Query->get_posts
+[05-Jul-2022 22:47:14 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1b9921_16.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/framework/zion-builder/inc/index-page-builder.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[05-Jul-2022 22:47:14 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1b9921_7.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/framework/zion-builder/inc/index-page-builder.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[05-Jul-2022 22:47:14 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1b9921_7.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/framework/zion-builder/inc/index-page-builder.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, set_transient, update_option
+[05-Jul-2022 22:47:14 UTC] PHP Warning:  mysqli_query(): (HY000/1021): Disk full (/tmp/.mysql/#sql_1b9921_7.MAI); waiting for someone to free some space... (errno: 28 &quot;No space left on device&quot;) in /home/riskfjhr/public_html/wp-includes/wp-db.php on line 2169
+[05-Jul-2022 22:47:14 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1b9921_7.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query 
+			SELECT   wp_posts.*
+			FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+			WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (47)
+) AND wp_posts.post_type = 'nav_menu_item' AND ((wp_posts.post_status = 'publish'))
+			GROUP BY wp_posts.ID
+			ORDER BY wp_posts.menu_order ASC
+			
+		 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/framework/zion-builder/inc/index-page-builder.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/components/theme-header/header-main.php'), include('/themes/kallyas/components/theme-header/header-style3.php'), include('/themes/kallyas/components/theme-header/header-style-default.php'), include('/themes/kallyas/components/theme-header/header-markup-main.php'), do_action('zn_head__main_right'), WP_Hook->do_action, WP_Hook->apply_filters, zn_header_main_menu, zn_show_nav, wp_nav_menu, wp_get_nav_menu_items, get_posts, WP_Query->query, WP_Query->get_posts
+[05-Jul-2022 22:47:14 UTC] PHP Warning:  mysqli_query(): (HY000/1021): Disk full (/tmp/.mysql/#sql_1b9921_15.MAI); waiting for someone to free some space... (errno: 28 &quot;No space left on device&quot;) in /home/riskfjhr/public_html/wp-includes/wp-db.php on line 2169
+[05-Jul-2022 22:47:14 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1b9921_15.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query 
+			SELECT   wp_posts.*
+			FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+			WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (47)
+) AND wp_posts.post_type = 'nav_menu_item' AND ((wp_posts.post_status = 'publish'))
+			GROUP BY wp_posts.ID
+			ORDER BY wp_posts.menu_order ASC
+			
+		 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/framework/zion-builder/inc/index-page-builder.php'), get_footer, locate_template, load_template, require_once('/themes/kallyas/footer.php'), dynamic_sidebar, WP_Widget->display_callback, WP_Nav_Menu_Widget->widget, wp_nav_menu, wp_get_nav_menu_items, get_posts, WP_Query->query, WP_Query->get_posts
+[06-Jul-2022 12:59:29 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1b9921_29.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[06-Jul-2022 12:59:29 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1b9921_29.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[06-Jul-2022 12:59:29 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1b9921_29.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[06-Jul-2022 12:59:29 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1b9921_29.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[06-Jul-2022 12:59:29 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_1b9921_29.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by delete_transient, delete_option
+[20-Jul-2022 18:10:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_3901d7_45.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[20-Jul-2022 18:10:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_3901d7_45.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[20-Jul-2022 18:10:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_3901d7_45.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[20-Jul-2022 18:10:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_3901d7_45.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[20-Jul-2022 18:10:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_3901d7_45.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[20-Jul-2022 18:10:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_3901d7_45.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[20-Jul-2022 18:10:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_3901d7_46.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by delete_transient, delete_option
+[20-Jul-2022 18:10:08 UTC] PHP Warning:  mysqli_query(): (HY000/1021): Disk full (/tmp/.mysql/#sql_3901d7_44.MAI); waiting for someone to free some space... (errno: 28 &quot;No space left on device&quot;) in /home/riskfjhr/public_html/wp-includes/wp-db.php on line 2169
+[20-Jul-2022 18:10:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_3901d7_44.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query 
+			SELECT   wp_posts.*
+			FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+			WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (47)
+) AND wp_posts.post_type = 'nav_menu_item' AND ((wp_posts.post_status = 'publish'))
+			GROUP BY wp_posts.ID
+			ORDER BY wp_posts.menu_order ASC
+			
+		 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, ZnMegaMenu->load_smart_areas, wp_get_nav_menu_items, get_posts, WP_Query->query, WP_Query->get_posts
+[20-Jul-2022 18:10:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_3901d7_44.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/archive.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[20-Jul-2022 18:10:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_3901d7_44.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/archive.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[20-Jul-2022 18:10:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_3901d7_44.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/archive.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, set_transient, update_option
+[20-Jul-2022 18:10:08 UTC] PHP Warning:  mysqli_query(): (HY000/1021): Disk full (/tmp/.mysql/#sql_3901d7_46.MAI); waiting for someone to free some space... (errno: 28 &quot;No space left on device&quot;) in /home/riskfjhr/public_html/wp-includes/wp-db.php on line 2169
+[20-Jul-2022 18:10:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_3901d7_46.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query 
+			SELECT   wp_posts.*
+			FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+			WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (47)
+) AND wp_posts.post_type = 'nav_menu_item' AND ((wp_posts.post_status = 'publish'))
+			GROUP BY wp_posts.ID
+			ORDER BY wp_posts.menu_order ASC
+			
+		 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/archive.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/components/theme-header/header-main.php'), include('/themes/kallyas/components/theme-header/header-style3.php'), include('/themes/kallyas/components/theme-header/header-style-default.php'), include('/themes/kallyas/components/theme-header/header-markup-main.php'), do_action('zn_head__main_right'), WP_Hook->do_action, WP_Hook->apply_filters, zn_header_main_menu, zn_show_nav, wp_nav_menu, wp_get_nav_menu_items, get_posts, WP_Query->query, WP_Query->get_posts
+[20-Jul-2022 18:10:08 UTC] PHP Warning:  mysqli_query(): (HY000/1021): Disk full (/tmp/.mysql/#sql_3901d7_44.MAI); waiting for someone to free some space... (errno: 28 &quot;No space left on device&quot;) in /home/riskfjhr/public_html/wp-includes/wp-db.php on line 2169
+[20-Jul-2022 18:10:08 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_3901d7_44.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query 
+			SELECT   wp_posts.*
+			FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+			WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (47)
+) AND wp_posts.post_type = 'nav_menu_item' AND ((wp_posts.post_status = 'publish'))
+			GROUP BY wp_posts.ID
+			ORDER BY wp_posts.menu_order ASC
+			
+		 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/archive.php'), get_footer, locate_template, load_template, require_once('/themes/kallyas/footer.php'), dynamic_sidebar, WP_Widget->display_callback, WP_Nav_Menu_Widget->widget, wp_nav_menu, wp_get_nav_menu_items, get_posts, WP_Query->query, WP_Query->get_posts
+[20-Jul-2022 23:34:05 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_37f9a3_21.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[20-Jul-2022 23:34:05 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_37f9a3_21.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[20-Jul-2022 23:34:05 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_37f9a3_21.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[20-Jul-2022 23:34:05 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_37f9a3_21.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[20-Jul-2022 23:34:05 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_37f9a3_21.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by delete_transient, delete_option
+[20-Jul-2022 23:34:05 UTC] PHP Warning:  mysqli_query(): (HY000/1021): Disk full (/tmp/.mysql/#sql_37f9a3_21.MAI); waiting for someone to free some space... (errno: 28 &quot;No space left on device&quot;) in /home/riskfjhr/public_html/wp-includes/wp-db.php on line 2169
+[20-Jul-2022 23:34:05 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_37f9a3_21.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query 
+			SELECT   wp_posts.*
+			FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+			WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (47)
+) AND wp_posts.post_type = 'nav_menu_item' AND ((wp_posts.post_status = 'publish'))
+			GROUP BY wp_posts.ID
+			ORDER BY wp_posts.menu_order ASC
+			
+		 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, ZnMegaMenu->load_smart_areas, wp_get_nav_menu_items, get_posts, WP_Query->query, WP_Query->get_posts
+[20-Jul-2022 23:34:05 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_37f9a3_22.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/404.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/404-standard.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[20-Jul-2022 23:34:05 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_37f9a3_22.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/404.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/404-standard.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[20-Jul-2022 23:34:05 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_37f9a3_21.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/404.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/404-standard.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, set_transient, update_option
+[20-Jul-2022 23:34:05 UTC] PHP Warning:  mysqli_query(): (HY000/1021): Disk full (/tmp/.mysql/#sql_37f9a3_21.MAI); waiting for someone to free some space... (errno: 28 &quot;No space left on device&quot;) in /home/riskfjhr/public_html/wp-includes/wp-db.php on line 2169
+[20-Jul-2022 23:34:05 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_37f9a3_21.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query 
+			SELECT   wp_posts.*
+			FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+			WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (47)
+) AND wp_posts.post_type = 'nav_menu_item' AND ((wp_posts.post_status = 'publish'))
+			GROUP BY wp_posts.ID
+			ORDER BY wp_posts.menu_order ASC
+			
+		 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/404.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/404-standard.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/components/theme-header/header-main.php'), include('/themes/kallyas/components/theme-header/header-style3.php'), include('/themes/kallyas/components/theme-header/header-style-default.php'), include('/themes/kallyas/components/theme-header/header-markup-main.php'), do_action('zn_head__main_right'), WP_Hook->do_action, WP_Hook->apply_filters, zn_header_main_menu, zn_show_nav, wp_nav_menu, wp_get_nav_menu_items, get_posts, WP_Query->query, WP_Query->get_posts
+[20-Jul-2022 23:34:05 UTC] PHP Warning:  mysqli_query(): (HY000/1021): Disk full (/tmp/.mysql/#sql_37f9a3_21.MAI); waiting for someone to free some space... (errno: 28 &quot;No space left on device&quot;) in /home/riskfjhr/public_html/wp-includes/wp-db.php on line 2169
+[20-Jul-2022 23:34:05 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_37f9a3_21.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query 
+			SELECT   wp_posts.*
+			FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+			WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (47)
+) AND wp_posts.post_type = 'nav_menu_item' AND ((wp_posts.post_status = 'publish'))
+			GROUP BY wp_posts.ID
+			ORDER BY wp_posts.menu_order ASC
+			
+		 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/404.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/404-standard.php'), get_footer, locate_template, load_template, require_once('/themes/kallyas/footer.php'), dynamic_sidebar, WP_Widget->display_callback, WP_Nav_Menu_Widget->widget, wp_nav_menu, wp_get_nav_menu_items, get_posts, WP_Query->query, WP_Query->get_posts
+[24-Aug-2022 03:40:56 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_2b4025_22.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[24-Aug-2022 03:40:56 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_2b4025_21.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[24-Aug-2022 03:40:56 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_2b4025_24.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[24-Aug-2022 03:40:56 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_2b4025_21.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[24-Aug-2022 03:40:56 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_2b4025_21.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by delete_transient, delete_option
+[24-Aug-2022 03:40:56 UTC] PHP Warning:  mysqli_query(): (HY000/1021): Disk full (/tmp/.mysql/#sql_2b4025_24.MAI); waiting for someone to free some space... (errno: 28 &quot;No space left on device&quot;) in /home/riskfjhr/public_html/wp-includes/wp-db.php on line 2169
+[24-Aug-2022 03:40:56 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_2b4025_24.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query 
+			SELECT   wp_posts.*
+			FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+			WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (47)
+) AND wp_posts.post_type = 'nav_menu_item' AND ((wp_posts.post_status = 'publish'))
+			GROUP BY wp_posts.ID
+			ORDER BY wp_posts.menu_order ASC
+			
+		 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, ZnMegaMenu->load_smart_areas, wp_get_nav_menu_items, get_posts, WP_Query->query, WP_Query->get_posts
+[24-Aug-2022 03:40:56 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_2b4025_23.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/404.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/404-standard.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[24-Aug-2022 03:40:56 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_2b4025_23.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/404.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/404-standard.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[24-Aug-2022 03:40:56 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_2b4025_23.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/404.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/404-standard.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, set_transient, update_option
+[24-Aug-2022 03:40:56 UTC] PHP Warning:  mysqli_query(): (HY000/1021): Disk full (/tmp/.mysql/#sql_2b4025_23.MAI); waiting for someone to free some space... (errno: 28 &quot;No space left on device&quot;) in /home/riskfjhr/public_html/wp-includes/wp-db.php on line 2169
+[24-Aug-2022 03:40:56 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_2b4025_23.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query 
+			SELECT   wp_posts.*
+			FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+			WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (47)
+) AND wp_posts.post_type = 'nav_menu_item' AND ((wp_posts.post_status = 'publish'))
+			GROUP BY wp_posts.ID
+			ORDER BY wp_posts.menu_order ASC
+			
+		 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/404.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/404-standard.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/components/theme-header/header-main.php'), include('/themes/kallyas/components/theme-header/header-style3.php'), include('/themes/kallyas/components/theme-header/header-style-default.php'), include('/themes/kallyas/components/theme-header/header-markup-main.php'), do_action('zn_head__main_right'), WP_Hook->do_action, WP_Hook->apply_filters, zn_header_main_menu, zn_show_nav, wp_nav_menu, wp_get_nav_menu_items, get_posts, WP_Query->query, WP_Query->get_posts
+[24-Aug-2022 03:40:56 UTC] PHP Warning:  mysqli_query(): (HY000/1021): Disk full (/tmp/.mysql/#sql_2b4025_21.MAI); waiting for someone to free some space... (errno: 28 &quot;No space left on device&quot;) in /home/riskfjhr/public_html/wp-includes/wp-db.php on line 2169
+[24-Aug-2022 03:40:56 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_2b4025_21.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query 
+			SELECT   wp_posts.*
+			FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+			WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (47)
+) AND wp_posts.post_type = 'nav_menu_item' AND ((wp_posts.post_status = 'publish'))
+			GROUP BY wp_posts.ID
+			ORDER BY wp_posts.menu_order ASC
+			
+		 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/404.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/404-standard.php'), get_footer, locate_template, load_template, require_once('/themes/kallyas/footer.php'), dynamic_sidebar, WP_Widget->display_callback, WP_Nav_Menu_Widget->widget, wp_nav_menu, wp_get_nav_menu_items, get_posts, WP_Query->query, WP_Query->get_posts
+[24-Aug-2022 03:46:50 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_2b4025_23.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('wp_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, _wp_cron, spawn_cron, set_transient, update_option
+[24-Aug-2022 03:46:50 UTC] PHP Warning:  mysqli_query(): (HY000/1021): Disk full (/tmp/.mysql/#sql_2b4025_24.MAI); waiting for someone to free some space... (errno: 28 &quot;No space left on device&quot;) in /home/riskfjhr/public_html/wp-includes/wp-db.php on line 2169
+[24-Aug-2022 03:46:50 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_2b4025_24.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query 
+			SELECT   wp_posts.*
+			FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+			WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (47)
+) AND wp_posts.post_type = 'nav_menu_item' AND ((wp_posts.post_status = 'publish'))
+			GROUP BY wp_posts.ID
+			ORDER BY wp_posts.menu_order ASC
+			
+		 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, ZnMegaMenu->load_smart_areas, wp_get_nav_menu_items, get_posts, WP_Query->query, WP_Query->get_posts
+[24-Aug-2022 03:46:50 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_2b4025_21.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/404.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/404-standard.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[24-Aug-2022 03:46:50 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_2b4025_21.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/404.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/404-standard.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, get_transient, delete_option
+[24-Aug-2022 03:46:50 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_2b4025_22.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/404.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/404-standard.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_global_styles, wp_get_global_stylesheet, set_transient, update_option
+[24-Aug-2022 03:46:50 UTC] PHP Warning:  mysqli_query(): (HY000/1021): Disk full (/tmp/.mysql/#sql_2b4025_22.MAI); waiting for someone to free some space... (errno: 28 &quot;No space left on device&quot;) in /home/riskfjhr/public_html/wp-includes/wp-db.php on line 2169
+[24-Aug-2022 03:46:50 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_2b4025_22.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query 
+			SELECT   wp_posts.*
+			FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+			WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (47)
+) AND wp_posts.post_type = 'nav_menu_item' AND ((wp_posts.post_status = 'publish'))
+			GROUP BY wp_posts.ID
+			ORDER BY wp_posts.menu_order ASC
+			
+		 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/404.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/404-standard.php'), get_header, locate_template, load_template, require_once('/themes/kallyas/header.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/components/theme-header/header-main.php'), include('/themes/kallyas/components/theme-header/header-style3.php'), include('/themes/kallyas/components/theme-header/header-style-default.php'), include('/themes/kallyas/components/theme-header/header-markup-main.php'), do_action('zn_head__main_right'), WP_Hook->do_action, WP_Hook->apply_filters, zn_header_main_menu, zn_show_nav, wp_nav_menu, wp_get_nav_menu_items, get_posts, WP_Query->query, WP_Query->get_posts
+[24-Aug-2022 03:46:50 UTC] PHP Warning:  mysqli_query(): (HY000/1021): Disk full (/tmp/.mysql/#sql_2b4025_21.MAI); waiting for someone to free some space... (errno: 28 &quot;No space left on device&quot;) in /home/riskfjhr/public_html/wp-includes/wp-db.php on line 2169
+[24-Aug-2022 03:46:50 UTC] WordPress database error Disk full (/tmp/.mysql/#sql_2b4025_21.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query 
+			SELECT   wp_posts.*
+			FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+			WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (47)
+) AND wp_posts.post_type = 'nav_menu_item' AND ((wp_posts.post_status = 'publish'))
+			GROUP BY wp_posts.ID
+			ORDER BY wp_posts.menu_order ASC
+			
+		 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kallyas/404.php'), get_template_part, locate_template, load_template, require('/themes/kallyas/404-standard.php'), get_footer, locate_template, load_template, require_once('/themes/kallyas/footer.php'), dynamic_sidebar, WP_Widget->display_callback, WP_Nav_Menu_Widget->widget, wp_nav_menu, wp_get_nav_menu_items, get_posts, WP_Query->query, WP_Query->get_posts

@@ -1,0 +1,24 @@
+[26-Aug-2022 00:39:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/inc/customizer.php:122
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/inc/customizer.php on line 122
+[26-Aug-2022 02:50:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/inc/template-functions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/inc/template-functions.php on line 67
+[26-Aug-2022 15:18:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[26-Aug-2022 15:37:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/inc/custom-header.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/inc/custom-header.php on line 53
+[27-Aug-2022 06:10:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[27-Aug-2022 06:10:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php:195
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php on line 195

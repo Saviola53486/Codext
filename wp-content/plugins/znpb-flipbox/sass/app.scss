@@ -1,0 +1,108 @@
+ /* Container Element */
+.znFlipboxElm {position:relative; height:400px; perspective: 1000; transform-style: preserve-3d;}
+
+/* FlipBox */
+.znFlipbox {width:100%; height:100%; background-size: cover; background-position:center center; position:absolute; top:0; backface-visibility: hidden; transform-style: preserve-3d; z-index:1; display: flex; perspective: inherit;}
+
+/* Vertical Alignment */
+.znFlipboxElm.znFlipbox--vAlignTop .znFlipbox {align-items: flex-start;}
+.znFlipboxElm.znFlipbox--vAlignMiddle .znFlipbox {align-items: center;}
+.znFlipboxElm.znFlipbox--vAlignBottom .znFlipbox {align-items: flex-end;}
+
+/* Horizontal Alignment */
+.znFlipboxElm.znFlipbox--hAlignLeft {text-align: left;}
+.znFlipboxElm.znFlipbox--hAlignCenter {text-align: center;}
+.znFlipboxElm.znFlipbox--hAlignRight {text-align: right;}
+
+/* Overlay */
+.znFlipbox-overlayFront,
+.znFlipbox-overlayBack {display:block; background:rgba(0,0,0,0.5); width:100%; height:100%; position:absolute; top:0; left: 0; }
+
+/* Content */
+.znFlipbox-content {padding:40px; width: 100%; position:relative; transform-style: preserve-3d; z-index:2; backface-visibility: hidden;}
+
+/* Speed */
+.znFlipboxElm .znFlipbox,
+.znFlipboxElm .znFlipbox-content {transition-property: all; transition-duration: 0.6s; transition-timing-function: cubic-bezier(.5,.3,.3,1); }
+/* presets */
+.znFlipboxElm.znFlipbox--speedFast .znFlipbox,
+.znFlipboxElm.znFlipbox--speedFast .znFlipbox-content {transition-duration: 0.3s;}
+.znFlipboxElm.znFlipbox--speedNormal .znFlipbox,
+.znFlipboxElm.znFlipbox--speedNormal .znFlipbox-content {transition-duration: 0.6s;}
+.znFlipboxElm.znFlipbox--speedSlow .znFlipbox,
+.znFlipboxElm.znFlipbox--speedSlow .znFlipbox-content {transition-duration: 1s;}
+
+/**
+ * Rotate Horizontally
+ */
+.znFlipboxElm-pbOff.znFlipbox--rotateX .znFlipbox-front{ transform: rotateY(0deg); }
+.znFlipboxElm-pbOff.znFlipbox--rotateX:hover .znFlipbox-front{ transform: rotateY(-180deg); }
+.znFlipboxElm-pbOff.znFlipbox--rotateX .znFlipbox-back{ transform: rotateY(180deg); }
+.znFlipboxElm-pbOff.znFlipbox--rotateX:hover .znFlipbox-back{ transform: rotateY(0deg); }
+/* Content */
+.znFlipboxElm-pbOff.znFlipbox--rotateX .znFlipbox-contentFront{transform: translateX(0px) translateZ(0px) scale(1) ; }
+.znFlipboxElm-pbOff.znFlipbox--rotateX:hover .znFlipbox-contentFront{transform: translateX(-50%) translateZ(80px) scale(.9); opacity:0;}
+.znFlipboxElm-pbOff.znFlipbox--rotateX .znFlipbox-contentBack{transform: translateX(50%) translateZ(80px) scale(.9); opacity:0;}
+.znFlipboxElm-pbOff.znFlipbox--rotateX:hover .znFlipbox-contentBack{transform: translateX(0px) translateZ(0) scale(1); opacity:1;}
+
+/**
+ * Rotate Vertically
+ */
+.znFlipboxElm-pbOff.znFlipbox--rotateY .znFlipbox-front{ transform: rotateX(0deg); }
+.znFlipboxElm-pbOff.znFlipbox--rotateY:hover .znFlipbox-front{ transform: rotateX(-180deg); }
+.znFlipboxElm-pbOff.znFlipbox--rotateY .znFlipbox-back{ transform: rotateX(180deg); }
+.znFlipboxElm-pbOff.znFlipbox--rotateY:hover .znFlipbox-back{ transform: rotateX(0deg); }
+/* Content */
+.znFlipboxElm-pbOff.znFlipbox--rotateY .znFlipbox-contentFront{transform: translateY(0px) translateZ(0px) scale(1);}
+.znFlipboxElm-pbOff.znFlipbox--rotateY:hover .znFlipbox-contentFront{transform: translateY(50%) translateZ(80px) scale(.9);opacity:0;}
+.znFlipboxElm-pbOff.znFlipbox--rotateY .znFlipbox-contentBack{transform: translateY(-50%) translateZ(80px) scale(.9); opacity:0}
+.znFlipboxElm-pbOff.znFlipbox--rotateY:hover .znFlipbox-contentBack{transform: translateY(0px) translateZ(0px) scale(1); opacity:1}
+
+/* PB ON */
+/**
+ * Rotate Horizontally
+ */
+.znFlipboxElm-pbOn.znFlipbox--rotateX .znFlipbox-front{ transform: rotateY(0deg); }
+.znFlipboxElm-pbControl:checked ~ .znFlipboxElm-pbOn.znFlipbox--rotateX .znFlipbox-front{ transform: rotateY(-180deg); opacity:0;}
+.znFlipboxElm-pbOn.znFlipbox--rotateX .znFlipbox-back{ transform: rotateY(180deg); }
+.znFlipboxElm-pbControl:checked ~ .znFlipboxElm-pbOn.znFlipbox--rotateX .znFlipbox-back{ transform: rotateY(0deg); }
+/* Content */
+.znFlipboxElm-pbOn.znFlipbox--rotateX .znFlipbox-contentFront{transform: translateX(0px) translateZ(0px) scale(1); }
+.znFlipboxElm-pbControl:checked ~ .znFlipboxElm-pbOn.znFlipbox--rotateX .znFlipbox-contentFront{transform: translateX(-50%) translateZ(80px) scale(.9); opacity:0;}
+.znFlipboxElm-pbOn.znFlipbox--rotateX .znFlipbox-contentBack{transform: translateX(50%) translateZ(80px) scale(.9); opacity:0;}
+.znFlipboxElm-pbControl:checked ~ .znFlipboxElm-pbOn.znFlipbox--rotateX .znFlipbox-contentBack{transform: translateX(0px) translateZ(0) scale(1); opacity:1;}
+
+/**
+ * Rotate Vertically
+ */
+.znFlipboxElm-pbOn.znFlipbox--rotateY .znFlipbox-front{ transform: rotateX(0deg); }
+.znFlipboxElm-pbControl:checked ~ .znFlipboxElm-pbOn.znFlipbox--rotateY .znFlipbox-front{ transform: rotateX(-180deg); }
+.znFlipboxElm-pbOn.znFlipbox--rotateY .znFlipbox-back{ transform: rotateX(180deg); }
+.znFlipboxElm-pbControl:checked ~ .znFlipboxElm-pbOn.znFlipbox--rotateY .znFlipbox-back{ transform: rotateX(0deg); }
+/* Content */
+.znFlipboxElm-pbOn.znFlipbox--rotateY .znFlipbox-contentFront{transform: translateY(0px) translateZ(0px) scale(1);}
+.znFlipboxElm-pbControl:checked ~ .znFlipboxElm-pbOn.znFlipbox--rotateY .znFlipbox-contentFront{transform: translateY(50%) translateZ(80px) scale(.9);}
+.znFlipboxElm-pbOn.znFlipbox--rotateY .znFlipbox-contentBack{transform: translateY(-50%) translateZ(80px) scale(.9); opacity:0;}
+.znFlipboxElm-pbControl:checked ~ .znFlipboxElm-pbOn.znFlipbox--rotateY .znFlipbox-contentBack{transform: translateY(0px) translateZ(0px) scale(1); opacity:1;}
+
+/**
+ * Shadows
+ */
+.znFlipboxElm.znFlipbox--shadowsHover .znFlipbox {box-shadow: 0 0 0 rgba(0,0,0,0);}
+.znFlipboxElm.znFlipbox--shadowsAlways .znFlipbox,
+.znFlipboxElm.znFlipbox--shadowsHover:hover .znFlipbox {box-shadow: 0 32px 58px rgba(0,0,0,0.2);}
+/* Content shadows */
+/*.znFlipboxElm.znFlipbox--useShadows .znFlipbox-contentItem {transition: 0.60s;}
+.znFlipboxElm.znFlipbox--useShadows .znFlipbox-contentItem-obj {box-shadow: 0 32px 58px rgba(0,0,0,0.2);}
+.znFlipboxElm.znFlipbox--useShadows .znFlipbox-contentItem-text {text-shadow: 0 22px 38px rgba(0, 0, 0, 0.4);}*/
+
+/* Control Checkbox */
+.znFlipboxElm-pbControl {display: none;}
+.znFlipboxElm-pbControl + label {display: block; width: 26px; height: 26px; background: #66CB66; color: #fff; border-radius: 13px; position: absolute; top: 50px; right: -10px; padding-left: 2px; z-index: 2; cursor: pointer; font-size: 18px; line-height: 26px; font-family: dashicons; text-decoration: inherit; font-weight: 400; font-style: normal; vertical-align: top; text-align: center; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; transition: transform .2s ease-out; }
+.znFlipboxElm-pbControl + label:hover {background: #52ad52;}
+.znFlipboxElm-pbControl + label:before {content: "\f345";}
+/* Checked */
+.znFlipboxElm-pbControl:checked + label {transform:rotate(180deg);}
+
+/* Hide Option toolbar for first lvl column */
+.zn_col_container-flipbox > .zn_pb_el_container > .zn_el_options_bar {display: none;}

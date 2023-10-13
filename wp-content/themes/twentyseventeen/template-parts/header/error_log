@@ -1,0 +1,8 @@
+[26-Aug-2022 07:58:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_logo() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php on line 15
+[26-Aug-2022 12:15:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_custom_header_markup() in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/header/header-image.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/riskfjhr/public_html/wp-content/themes/twentyseventeen/template-parts/header/header-image.php on line 15
